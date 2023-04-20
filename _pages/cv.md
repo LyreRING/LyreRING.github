@@ -25,4 +25,4 @@ Skills
 
 CNVD discovered by me
 ======
-* CNVD-2022-51741 (medium-risk vulnerability on Xiaomi platform)
+* CNVD-2022-51741 (medium-risk vulnerability on Xiaomi cloud platform)
