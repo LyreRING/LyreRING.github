@@ -16,7 +16,7 @@ Research interest
 
 Education
 ======
-* Ph.D.(2023.09 expected), Institute for Network Sciences and CyberSpace, Tsinghua University
+* Ph.D.(2023.09), Institute for Network Sciences and CyberSpace, Tsinghua University
 * B.E.(2019.09-2023.06), Information Security, Huazhong University of Science and Technology
   
 Skills
